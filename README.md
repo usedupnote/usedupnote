@@ -1,10 +1,11 @@
-### 👋 Hi there 
+### 👋 안녕하세요!
 
-##### 😄 Pronouns: 
+##### 😄 자기소개 : 
 
 
-### 🌱 I’m currently learning ...
-- SSAFY (Samsung SW Academy For Youth)
+### 🌱 지금 성장 하는 중 🌱
+- **SSAFY (Samsung SW Academy For Youth)**
+- ****
 
 
 ### 
