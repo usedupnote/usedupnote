@@ -40,7 +40,20 @@
 ---
 
 ### Contact
-
+<p>
+  <i class="fa fa-github" aria-hidden="true"></i>
+  <a href="https://www.github.com/usedupnote">Github</a>
+</p>      
+<p>
+  <i class="fa fa-envelope" aria-hidden="true"></i>
+  <a href="mailto:leejm9704@naver.com">leejm9704@naver.com</a>
+</p>
+/*
+<p>
+  <i class="fa fa-facebook" aria-hidden="true"></i>
+  <a href="페이스북 연결 주소">Facebook</a>
+</p>
+*/
 
 <!--
 **usedupnote/usedupnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
