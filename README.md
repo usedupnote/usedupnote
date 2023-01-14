@@ -1,27 +1,29 @@
-### 👋 안녕하세요!
+<div align="center">
+### 👋 Hello! I'm JM Lee!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FF8A00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
 
-<!--
+<--
 ##### 😄 자기소개 : 
 -->
 
 ---
 
-### 🌱 what I'm doing now
+### 🌱  🌱
 - **SSAFY (Samsung SW Academy For Youth)**
 
----
 
-### 🔭 지금까지 해온 것
-|상 이름|내용|설명|
+### 🔭 지금까지 해온 것 🔭
+|제목|내용|설명|
 |:---:|:---:|:---:|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
 - ****
 
-### 🥇 수상
+### 🥇 Award 🥇
 |제목|내용|설명|
 |:---:|:---:|:---:|
 |왼쪽정렬|오른쪽정렬|중앙정렬|
@@ -37,10 +39,8 @@
 
 ---
 
-### 추가적으로...
+### Contact
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FF8A00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **usedupnote/usedupnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
