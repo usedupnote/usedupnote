@@ -17,21 +17,26 @@
 - **SSAFY (Samsung SW Academy For Youth)**
 
 
-### 🔭 
-|Title|Category|설명|
-|:---:|:---:|:---:|
-|2020 캠퍼스 특허 유니버시아드|🥇|중앙정렬|
-|2019 캠퍼스 특허전략 유니버시아드|✨|중앙정렬|
-|왼쪽정렬|오른쪽정렬|중앙정렬|
+### ✨
+|Period|Title|Category|Result|Key-word|
+|:---:|:---:|:---:|:---:|:---:|
+|2020.4.~11.|2020 캠퍼스 특허 유니버시아드|🥇|사업화부문(우수상)|Patent|
+|2020.8.~12.|공공빅데이터인턴|🚀|경남테크노파크|Big-data|
+|2019.4.~11.|2019 캠퍼스 특허전략 유니버시아드|🥇|특허전략부문(장려상)|Patent|
 
-<🥇:award, ✨:activitie>
+
+<🥇:award, 🚀:activitie>
 ---
 
 ### 🖥 Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 
+### Cowork Tool
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+  
 ---
 
 ### Contact
