@@ -46,14 +46,16 @@
 </p>      
 <p>
   <i class="fa fa-envelope" aria-hidden="true"></i>
-  <a href="mailto:leejm9704@naver.com">leejm9704@naver.com</a>
+  <a href="mailto:leejm9704@naver.com">email : leejm9704@naver.com</a>
 </p>
-/*
 <p>
-  <i class="fa fa-facebook" aria-hidden="true"></i>
-  <a href="페이스북 연결 주소">Facebook</a>
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+  <a href="https://www.instagram.com/idea.memory/">insagram-Developer</a>
 </p>
-*/
+<p>
+  <i class="fa fa-instagram" aria-hidden="true"></i>
+  <a href="https://www.instagram.com/i_m_meong/">insagram-Daily</a>
+</p>
 
 <!--
 **usedupnote/usedupnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
