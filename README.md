@@ -25,7 +25,8 @@
 |2019.4.~11.|2019 캠퍼스 특허전략 유니버시아드|🥇|특허전략부문(장려상)|Patent|
 
 
-<🥇:award, 🚀:activitie>
+<a style="font-size:8pt">🥇:award, 🚀:activitie </a>
+
 ---
 
 ### 🖥 Platforms & Languages
