@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello! 👋 I'm <span style=”background-color:#f9b294;”>JM Lee</span><span style="background-color:#ffbba9;”> </span>! </h1>
+<h2> Hello! 👋 I'm <mark style='background-color: #f9b294'>JM Lee</mark><mark style="background-color:#ffbbaa"> </mark>! </h2>
 </div>
 
 <div align="center">
