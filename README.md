@@ -20,7 +20,7 @@
 ### ✨
 |Period|Category|Title|Result|Key-word|
 |:---:|:---:|:---:|:---:|:---:|
-|2021.04.~2022.10.|🚀|군복무(30기갑여단)|殺만기전역|Military|
+|2021.04.~2022.10.|🚀|군복무(30기갑여단)|﫡만기전역|Military|
 |2020.08.~2020.12.|🚀|공공빅데이터인턴|경남테크노파크|Big-data|
 |2020.04.~2020.11.|🥇|2020 캠퍼스 특허 유니버시아드|사업화부문(우수상)|Patent|
 |2019.04.~2019.11.|🥇|2019 캠퍼스 특허전략 유니버시아드|특허전략부문(장려상)|Patent|
@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Css-E34F26.svg?&style=for-the-badge&logo=Css&logoColor=white)
 
 ### Cowork Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
