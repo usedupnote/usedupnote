@@ -1,8 +1,6 @@
 <div align="center">
-  <h1> Hello! 👋 I'm <span style=”background-color:#f9b294”>JM Lee</span><span style="background-color:#ffbba9”> </span>! </h1>
+  <h1> Hello! 👋 I'm <span style=”background-color:#f9b294”>JM Lee</span><span style="background-color:#ffbba9”> </span>! <br> </h1>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB679&title_bg=%23FF9337&icon=&icon_color=%235B5B5B&title=hits&edge_flat=false"/></a>
-  
-
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
