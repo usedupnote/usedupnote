@@ -9,9 +9,10 @@
 <!--
 ##### 😄 자기소개 : 
 -->
-<br>
+
 ---
-<br>
+
+
 ### 🌱 what I'm doing now
 - **SSAFY (Samsung SW Academy For Youth)**
 
@@ -32,9 +33,9 @@
 
 <a style="font-size:8pt">🥇:award, 🚀:activitie </a>
 
-<br>
 ---
-<br>
+
+
 ### 💳 Certificate
 |Year|Category|Title|Host|Key-word|
 |:---:|:---:|:---:|:---:|:---:|
@@ -45,9 +46,8 @@
     
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
     
-<br>
 ---
-<br>
+
 
 ### 🖥 Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -59,10 +59,9 @@
 
 ### Cowork Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-  
-<br>
+ 
 ---
-<br>
+
 
 ### Contact
 <p>
