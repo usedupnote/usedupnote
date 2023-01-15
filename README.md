@@ -1,8 +1,5 @@
 <div align="center">
 <h2> Hello! 👋 I'm <mark style='background-color: #f9b294'>JM Lee</mark><mark style="background-color:#ffbbaa"> </mark>! </h2>
-</div>
-
-<div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFC98F&title_bg=%23FF9420&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
@@ -12,9 +9,9 @@
 <!--
 ##### 😄 자기소개 : 
 -->
-
+<br>
 ---
-
+<br>
 ### 🌱 what I'm doing now
 - **SSAFY (Samsung SW Academy For Youth)**
 
@@ -35,7 +32,9 @@
 
 <a style="font-size:8pt">🥇:award, 🚀:activitie </a>
 
+<br>
 ---
+<br>
 ### 💳 Certificate
 |Year|Category|Title|Host|Key-word|
 |:---:|:---:|:---:|:---:|:---:|
@@ -46,7 +45,9 @@
     
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
     
+<br>
 ---
+<br>
 
 ### 🖥 Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -59,7 +60,9 @@
 ### Cowork Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
   
+<br>
 ---
+<br>
 
 ### Contact
 <p>
