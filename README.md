@@ -7,7 +7,7 @@
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
-![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=usedupnote&show_icons=true&bg_color=00000000)
+![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=131313)
     
 <!--
 ##### 😄 자기소개 : 
