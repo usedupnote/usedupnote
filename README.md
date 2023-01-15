@@ -1,6 +1,9 @@
 <div align="center">
-  <h1> Hello! 👋 I'm <span style=”background-color:#f9b294”>JM Lee</span><span style="background-color:#ffbba9”> </span>! <br> </h1>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB679&title_bg=%23FF9337&icon=&icon_color=%235B5B5B&title=hits&edge_flat=false"/></a>
+  <h1> Hello! 👋 I'm <span style=”background-color:#f9b294;”>JM Lee</span><span style="background-color:#ffbba9;”> </span>! </h1>
+</div>
+
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFB679&title_bg=%23FF9337&icon=&icon_color=%235B5B5B&title=hits&edge_flat=false"/></a>    
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
@@ -31,7 +34,7 @@
 ### 🖥 Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/Css-E34F26.svg?&style=for-the-badge&logo=Css&logoColor=white)
 
