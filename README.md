@@ -42,7 +42,7 @@
 |2020|💻|DSAC Programmer Certificate|KPC(한국생산성본부)|Big-data, DataScience|
 |2019|🤨|3D프린터운용기능사<br>Craftsman 3D Printer Operation|한국산업인력공단|3D Printing, 3D Modeling|
 |2018|🤨|IPS GL(IP 정보검색사)|한국지식재산서비스협회|Patent|
-|-|International TRIZ LEVEL1|The International TRIZ Assosiation|Patent|
+|-|🤨|International TRIZ LEVEL1|The International TRIZ Assosiation|Patent|
     
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
     
