@@ -3,11 +3,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFC98F&title_bg=%23FF9420&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 ![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=ffffff)
-</div>
+
 
 <!--
 ##### 😄 자기소개 : 
