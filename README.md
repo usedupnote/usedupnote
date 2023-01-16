@@ -1,23 +1,38 @@
 <div align="center">
-<h2> Hello! 👋 I'm <mark style='background-color: #f9b294'>JM Lee</mark><mark style="background-color:#ffbbaa"> </mark>! </h2>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFC98F&title_bg=%23FF9420&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
-![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=ffffff)
-
-
+<h1> Hello! 👋 I'm <mark style='background-color : #f9b294'>JM Lee</mark><mark style="background-color : #ffbbaa"> </mark>! </h1>
+    
 <!--
 ##### 😄 자기소개 : 
 -->
+    
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFC98F&title_bg=%23FF9420&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+<br>
+    
 ---
+    
+<br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
+![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=ffffff)
+
+
+    
+<br>
+    
+---
+    
+<br>
 
 ### 🌱 what I'm doing now
-- **SSAFY (Samsung SW Academy For Youth)**
-
+**SSAFY (Samsung SW Academy For Youth)
+![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)**
+    
+<br>
+    
+---
+    
+<br>
 
 ### ✨Activities & awards
 |Year|Period|Category|Title|Result|Key-word|
@@ -27,16 +42,19 @@
 |-|2018.03.~2021.02.|🚀|메이커스페이스<br>(근로장학생)|-|-|
 |2020|2020.08.~2020.12.|🚀|공공빅데이터인턴|경남테크노파크|Big-data|
 |-|2020.04.~2020.11.|🥇|캠퍼스 특허 유니버시아드|사업화부문(우수상)|Patent|
-|2019|2019.08.~2019.12.|🥇|부산지역 캡스톤디자인 경진대회 등 4개(우수상 ~ 최우수상)|-|Game, Programming|
-|-|2019.04.~2019.11.|🥇|캠퍼스<br>특허전략 유니버시아드|특허전략부문(장려상)|Patent|
-|-|2019.05.~2019.09.|🥇|부산지역<br>특허전략 경진대회|특허전략부문(장려상)|Patent|
-|2018|2018.05.~2018.09.|🥇|부산지역<br>특허전략 경진대회|특허전략부문(우수상)<br>선행기술조사부문(우수상)|Patent|
+|2019|2019.08.~2019.12.|🥇|부산지역 캡스톤디자인 경진대회 등 4개<br>(우수상 ~ 최우수상)|-|Game, Programming|
+|-|2019.04.~2019.11.|🥇|캠퍼스<br>특허전략 유니버시아드|특허전략부문<br>(장려상)|Patent|
+|-|2019.05.~2019.09.|🥇|부산지역<br>특허전략 경진대회|특허전략부문<br>(장려상)|Patent|
+|2018|2018.05.~2018.09.|🥇|부산지역<br>특허전략 경진대회|특허전략부문<br>(우수상)<br>선행기술조사부문<br>(우수상)|Patent|
 |2017|2017.06.~2017.07.|🚀|한일 학술문화 및 <br>청소년 교류사업|방일 교류|-|
 
 <a style="font-size:8pt">🥇:award, 🚀:activitie </a>
 
+<br>
+    
 ---
-
+    
+<br>
 
 ### 💳 Certificate
 |Year|Category|Title|Host|Key-word|
@@ -47,9 +65,12 @@
 |-|🤨|International TRIZ LEVEL1|The International TRIZ Assosiation|Patent|
     
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
+
+<br>   
     
 ---
-
+    
+<br>
 
 ### 🖥 Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -62,8 +83,12 @@
 ### Cowork Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
  
+<br>
+
 ---
 
+<br>
+    
 
 ### Contact
 <p>
@@ -82,6 +107,8 @@
   <i class="fa fa-instagram" aria-hidden="true"></i>
   <a href="https://www.instagram.com/i_m_meong/">insagram-Daily</a>
 </p>
+
+</div>
 
 <!--
 **usedupnote/usedupnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
