@@ -1,7 +1,6 @@
 <div align="center">
 <h2> Hello! 👋 I'm JM Lee ! </h2>
-    
-    
+
 <!--
 ##### 😄 자기소개 : 
 -->
@@ -26,8 +25,7 @@
 <br>
 
 ### 🌱 what I'm doing now
-**SSAFY (Samsung SW Academy For Youth)
-![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)**
+**SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)
     
 <br>
     
@@ -112,6 +110,111 @@
 </div>
 
 <!--
+1. 제목(글머리) 작성 
+
+# H1, 제목                                  
+## H2, 부제목                            
+### H3, 소제목
+#### H4, 제목4
+##### H5, 제목5
+###### H6, 제목6
+ 
+
+2. 번호 없는 리스트 작성
+
+* 리스트 1
+- 리스트 2
++ 리스트 3
+ 
+
+3. 번호 있는 리스트 작성
+
+1. 리스트 1
+2. 리스트 2
+3. 리스트 3 
+ 
+
+4. 이텔릭체(기울어진 글씨) 작성
+
+*텍스트* 혹은 _텍스트_
+ 
+
+5. 굵은 글씨 작성
+
+**텍스트** 혹은 __텍스트__
+ 
+
+6. 인용
+
+> 텍스트
+
+> > 텍스트 ( > 기호 하나 더 추가할 경우 인용문 안에 또 인용문 추가)
+ 
+
+7. 수평선 넣기
+
+하단의 기호 3개 이상 나열
+***   
+---
+___ 
+ 
+
+8. 링크 달기 
+
+(1) 인라인 링크
+[텍스트](링크 주소)
+
+(2) 참조 링크
+[텍스트][참조명]
+[참조명]: 링크 주소
+ 
+
+9. 이미지 추가하기
+
+![텍스트](이미지링크)
+
+tip) 이미지 크기 조절
+<img src="이미지 링크" width="너비 " height="높이">
+
+ex)
+<img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg" width="700" height="370">
+
+tip2) Github README.md에 이미지 추가 (하단 참조) 
+ 
+
+10. 코드 블록 추가하기
+
+```
+코드
+코드
+코드
+```
+(주의! 작은따옴표 아닙니다. 악센트 기호에요. 맥의 경우, option 키 + ~키(₩키) 를 같이 눌러주시면 악센트 기호를 넣을 수 있습니다.)
+ 
+
+etc. 
+
+[문자열 개행]
+방법1. 문장 마지막에 스페이스 두 번 이상 입력
+방법2. html <br> 태그를 사용
+
+[글씨 취소선 넣기]
+~~텍스트~~
+
+[체크박스 넣기]
+* [x] 체크박스
+* [ ] 빈 체크박스
+
+[이모지 넣기]
+맥 기준: control + command + space bar 
+윈도우 기준: window key + . (윈도우 로고 키 + 마침표)
+
+[표 넣기]
+|왼쪽 정렬|가운데 정렬|오른쪽 정렬|
+|:---|:---:|---:|      // :의 위치가 정렬을 결정
+|내용1|내용2|내용3|
+|내용1|내용2|내용3|
+
 **usedupnote/usedupnote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
