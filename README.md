@@ -1,5 +1,6 @@
 <div align="center">
-<h1> Hello! 👋 I'm <mark style='background-color : #f9b294'>JM Lee</mark><mark style="background-color : #ffbbaa"> </mark>! </h1>
+<h2> Hello! 👋 I'm JM Lee ! </h2>
+    
     
 <!--
 ##### 😄 자기소개 : 
