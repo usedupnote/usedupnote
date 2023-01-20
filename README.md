@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello! 👋 I'm JM Lee ! </h2>
+<h1> Hello! 👋 I'm JM Lee ! </h1>
 
 <!--
 ##### 😄 자기소개 : 
@@ -24,7 +24,8 @@
     
 <br>
 
-### 🌱 what I'm doing now
+<h1> 🌱 what I'm doing now </h1>
+    
 **SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)
 <br>
 <br>
@@ -39,7 +40,8 @@
     
 <br>
 
-### ✨Activities & awards
+<h1> ✨Activities & awards </h1>
+    
 |Year|Period|Category|Title|Result|Key-word|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2022|2021.04.~2022.10.|🚀|군복무(30기갑여단)|-|Military|
@@ -61,7 +63,8 @@
     
 <br>
 
-### 💳 Certificate
+<h1> 💳 Certificate </h1>
+    
 |Year|Category|Title|Host|Key-word|
 |:---:|:---:|:---:|:---:|:---:|
 |2020|💻|DSAC Programmer Certificate|KPC(한국생산성본부)|Big-data, DataScience|
@@ -77,7 +80,8 @@
     
 <br>
 
-### 🖥 Platforms & Languages
+<h2> 🖥 Platforms & Languages </h2>
+    
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -85,7 +89,8 @@
 ![CSS](https://img.shields.io/badge/Css-E34F26.svg?&style=for-the-badge&logo=Css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-### Cowork Tool
+<h2> Cowork Tool </h2>
+    
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
  
 <br>
@@ -95,7 +100,8 @@
 <br>
     
 
-### Contact
+<h2> Contact </h2>
+    
 <p>
   <i class="fa fa-github" aria-hidden="true"></i>
   <a href="https://www.github.com/usedupnote">Github</a>
