@@ -5,7 +5,7 @@
 ##### 😄 자기소개 : 
 -->
     
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9E38&title_bg=%23070505&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFA842&title_bg=%23934506&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br>
     
