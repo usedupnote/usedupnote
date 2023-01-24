@@ -13,6 +13,8 @@
     
 <br>
 
+<h2>Python <--- | ---> Java  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h2>
+    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 ![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=ffffff)
 
