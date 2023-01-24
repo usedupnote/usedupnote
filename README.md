@@ -28,13 +28,13 @@
 
 <h1> 🌱 what I'm doing now </h1>
     
-**SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)
+**- SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white) -
 <br>
 <br>
-**YIPL (Young Intellectual Property Leaders)**
+**- YIPL (Young Intellectual Property Leaders) -**
 <br>
 <br>
-**한국지도자육성장학생 (The Korea Scholarship Foundation for the Future Leaders)**
+**- 한국지도자육성장학생 (The Korea Scholarship Foundation for the Future Leaders) -**
 
 <br>
     
