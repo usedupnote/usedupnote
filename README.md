@@ -7,7 +7,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFA842&title_bg=%23934506&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <br>
-    
 <br>
 
 <h2>[Python] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java] </h2>
@@ -19,8 +18,8 @@
 </div>
     
 <br>
-    
 <br>
+
 
 ### 🌱 what I'm doing now
     
@@ -29,8 +28,6 @@
 - **한국지도자육성장학생 (The Korea Scholarship Foundation for the Future Leaders)**
 
 <br>
-    
-    
 <br>
 
 ### 🚀Activities
@@ -43,9 +40,8 @@
 - 🤨 **[2017.06. ~ 2017.07.]**  | 한일 학술문화 및 청소년 교류사업 
 
 <br>
-
-    
 <br>
+
     
 ### 🏆 Awards
 - 🤨 **[2020]**  | 캠퍼스 특허 유니버시아드 (사업화부문) [우수상]
@@ -54,6 +50,7 @@
 - 🤨 **[2019]**  | 부산지역 특허전략 경진대회(특허전략부문) [장려상]
 - 🤨 **[2018]**  | 부산지역 특허전략 경진대회(특허전략부문, 선행기술조사부문) [우수상, 우수상]
     
+<br>
 <br>
 
 ### 💳 Certificate
@@ -67,8 +64,7 @@
 
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
 
-<br>   
-        
+<br>
 <br>
 
 <h2> 🖥 Platforms & Languages </h2>
@@ -85,10 +81,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
  
 <br>
-
-
 <br>
-    
 
 <h2> Contact </h2>
     
