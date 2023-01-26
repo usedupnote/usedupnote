@@ -1,3 +1,4 @@
+<div align = "center">
 <h1> Hello! 👋 I'm JM Lee ! </h1>
 
 #### 해보고 싶은 것들은 다 도전하는 중!
@@ -5,13 +6,12 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFA842&title_bg=%23934506&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+</div>
 <br>
     
----
-    
 <br>
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<h2>Python <--- | ---> Java  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </h2>
+
+<h2>[Python] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java] </h2>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 ![usedupnote's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&bg_color=ffffff)
@@ -20,69 +20,52 @@
     
 <br>
     
----
-    
 <br>
 
-<h1> 🌱 what I'm doing now </h1>
+### 🌱 what I'm doing now
     
-**- SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white) -
-<br>
-<br>
-**- YIPL (Young Intellectual Property Leaders) -**
-<br>
-<br>
-**- 한국지도자육성장학생 (The Korea Scholarship Foundation for the Future Leaders) -**
+- **SSAFY (Samsung SW Academy For Youth)** ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?&style=flat-square&logo=Samsung&logoColor=white)**
+- **YIPL (Young Intellectual Property Leaders)**
+- **한국지도자육성장학생 (The Korea Scholarship Foundation for the Future Leaders)**
 
 <br>
     
----
     
 <br>
 
-<h1> ✨Activities </h1>
-    
-|Year|Period|Category|Title|Result|Key-word|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|2023|2023.01.~ NOW |🚀|SSAFY<br>(Samsung SW Academy For Youth)|-|Programming|
-|2022|2021.04.~2022.10.|🚀|군복무(30기갑여단)|-|Military|
-|2022|2022.06.~ 2022.06. |🚀|국방분야 AI SW 역량강화 프로젝트[초급] 교육 수료|-|Programming|
-|2021|2018.03.~2021.02.|🚀|창업동아리(IEDA MEMORY)|교내 우수 동아리|-|
-|-|2018.03.~2021.02.|🚀|메이커스페이스<br>(근로장학생)|-|-|
-|2020|2020.08.~2020.12.|🚀|공공빅데이터인턴|경남테크노파크|Big-data|
-|2017|2017.06.~2017.07.|🚀|한일 학술문화 및 <br>청소년 교류사업|방일 교류|-|
-
-<a style="font-size:8pt">🚀:activitie </a>
+### 🚀Activities
+- **[2023.01. ~ - Now - ]** SSAFY(Samsung SW Academy For Youth) 
+- **[2021.04. ~ 2022.10.]** 군복무(30기갑여단)
+- **[2022.06. ~ 2022.06.]** 국방분야 AI SW 역량강화 프로젝트[초급] 교육 수료 
+- **[2018.03. ~ 2021.02.]** 창업동아리(IEDA MEMORY)
+- **[2018.03. ~ 2021.02.]** 메이커스페이스(근로장학생)
+- **[2020.08. ~ 2020.12.]** 공공빅데이터인턴(경남테크노파크)
+- **[2017.06. ~ 2017.07.]** 한일 학술문화 및 청소년 교류사업 
 
 <br>
-    
 
+    
+<br>
     
 ### 🏆 Awards
-- <p> 2020 캠퍼스 특허 유니버시아드 (사업화부문) [우수상] </p>
-- <p> 2019 부산지역 캡스톤디자인 경진대회 등 4개 (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상] </p>
-- <p> 2019 캠퍼스 특허전략 유니버시아드 (특허전략부문) [장려상] </p>
-- <p> 2019 부산지역 특허전략 경진대회(특허전략부문) [장려상] </p>
-- <p> 2018 부산지역 특허전략 경진대회(특허전략부문, 선행기술조사부문) [우수상, 우수상] </p>
+- **[2020]** 캠퍼스 특허 유니버시아드 (사업화부문) [우수상]
+- **[2019]** 부산지역 캡스톤디자인 경진대회 등 4개 (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상]
+- **[2019]** 캠퍼스 특허전략 유니버시아드 (특허전략부문) [장려상]
+- **[2019]** 부산지역 특허전략 경진대회(특허전략부문) [장려상]
+- **[2018]** 부산지역 특허전략 경진대회(특허전략부문, 선행기술조사부문) [우수상, 우수상]
     
 <br>
 
-<h1> 💳 Certificate </h1>
-    
-|Year|Category|Title|Host|Key-word|
-|:---:|:---:|:---:|:---:|:---:|
-|2022|💻|인공지능 자격 (전문가)|한국표준협회|AI, Programming|
-|2020|💻|DSAC Programmer Certificate|KPC(한국생산성본부)|Big-data, DataScience|
-|2019|🤨|3D프린터운용기능사<br>Craftsman 3D Printer Operation|한국산업인력공단|3D Printing, 3D Modeling|
-|2018|🤨|IPS GL(IP 정보검색사)|한국지식재산서비스협회|Patent|
-|-|🤨|International TRIZ LEVEL1|The International TRIZ Assosiation|Patent|
-    
+### 💳 Certificate
+- **[2022]** 💻 | 인공지능 자격 전문가 (한국표준협회)
+- **[2020]** 💻 | DSAC Programmer Certificate (KPC 한국생산성본부)
+- **[2019]** 🤨 | 3D프린터운용기능사 - Craftsman 3D Printer Operation (한국산업인력공단)
+- **[2018]** 🤨 | IP 정보검색사 - IPS GL (한국지식재산서비스협회)
+- **[2018]** 🤨 | International TRIZ LEVEL1 (The International TRIZ Assosiation)    
 <a style="font-size:8pt">💻:programming, 🤨:Etc.</a>
 
 <br>   
-    
----
-    
+        
 <br>
 
 <h2> 🖥 Platforms & Languages </h2>
@@ -100,7 +83,6 @@
  
 <br>
 
----
 
 <br>
     
