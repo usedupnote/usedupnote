@@ -1,8 +1,7 @@
-<div align = "center">
-<h1> Hello! 👋 I'm JM Lee ! </h1>
+![githubmainbanner](https://user-images.githubusercontent.com/59154924/215247942-c1253d8f-b74c-450f-aed6-6c33092ddf79.png)
 
-#### 해보고 싶은 것들은 다 도전하는 중!
-##### **#프로그래밍** **#특허** **#앱개발**
+
+<div align = "center">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FFA842&title_bg=%23934506&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
