@@ -1,4 +1,4 @@
-![githubmainbannerTransparent](https://user-images.githubusercontent.com/59154924/216969274-2eeca2d6-8419-44f7-88fd-fb0de6b6397f.png)
+![githubmainbannerTransparent](https://user-images.githubusercontent.com/59154924/216970105-42801c1f-59bf-460e-80ec-39dd97878a20.png)
 
 
 <div align = "center">
