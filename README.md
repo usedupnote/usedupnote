@@ -99,11 +99,16 @@
 <br>
 
 <h2> Contact </h2>
+   
     
 <p>
   <i class="fa fa-github" aria-hidden="true"></i>
   <a href="https://www.github.com/usedupnote">Github</a>
-</p>      
+</p>
+<p>
+  <i class="blog" aria-hidden="true"></i>
+  <a href="https://blog.naver.com/leejm9704">Tech Blog</a>
+</p>
 <p>
   <i class="fa fa-envelope" aria-hidden="true"></i>
   <a href="mailto:leejm9704@naver.com">email : leejm9704@naver.com</a>
