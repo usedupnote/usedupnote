@@ -100,28 +100,17 @@
 
 <h2> Contact </h2>
    
-    
-<p>
-  <i class="fa fa-github" aria-hidden="true"></i>
-  <a href="https://www.github.com/usedupnote">Github</a>
-</p>
-<p>
-  <i class="blog" aria-hidden="true"></i>
-  <a href="https://blog.naver.com/leejm9704">Tech Blog</a>
-</p>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/Instagram(DEV)-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/Instagram(LOG)-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/leejm9704" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF"/></a>
+
 <p>
   <i class="fa fa-envelope" aria-hidden="true"></i>
   <a href="mailto:leejm9704@naver.com">email : leejm9704@naver.com</a>
 </p>
-<p>
-  <i class="fa fa-instagram" aria-hidden="true"></i>
-  <a href="https://www.instagram.com/idea.memory/">insagram-Developer</a>
-</p>
-<p>
-  <i class="fa fa-instagram" aria-hidden="true"></i>
-  <a href="https://www.instagram.com/i_m_meong/">insagram-Daily</a>
-</p>
-
+    
 <!--
 1. 제목(글머리) 작성 
 
