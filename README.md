@@ -94,17 +94,21 @@
 <h2> 💬 Cowork Tool </h2>
     
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
+<h2> 🎨 Design Tool </h2>
+    
+![Git](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
  
 <br>
 <br>
 
 <h2> Contact </h2>
    
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
-<a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/Instagram(DEV)-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/Instagram(LOG)-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://blog.naver.com/leejm9704" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=naver&logoColor=FFFFFF"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/Instagram(DEV)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/Instagram(LOG)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/leejm9704" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFFF"/></a>
 
 <p>
   <i class="fa fa-envelope" aria-hidden="true"></i>
