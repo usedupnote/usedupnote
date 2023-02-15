@@ -97,7 +97,8 @@
 
 <h2> 🎨 Design Tool </h2>
     
-![Git](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
  
 <br>
 <br>
