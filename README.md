@@ -99,6 +99,7 @@
     
 ![Illustrator](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
+![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010.svg?&style=for-the-badge&logo=Rhinoceros&logoColor=white)
  
 <br>
 <br>
