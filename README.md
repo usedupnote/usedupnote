@@ -42,6 +42,16 @@
 <br>
 <br>
 
+
+<h3> 🎓 Studying at </h3>
+<ul>
+<li> [2017.03. ~ 2021.02.] 💻 | <b> Dong-eui University - Game Engineering Major[bachelor degree] </b> (동의대학교 - 게임공학과[학사]) </li> 
+<li> [2013.03. ~ 2016.02.] ⚪ | <b> Mir-yang High School </b> (밀양고등학교 - 이과) </li> 
+</ul>
+    
+<br>
+<br>
+ 
 <h3> 🚀Activities </h3>
 
 <ul>
@@ -90,6 +100,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Css-E34F26.svg?&style=for-the-badge&logo=Css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2> 💬 Cowork Tool </h2>
     
