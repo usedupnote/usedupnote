@@ -97,19 +97,18 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+    
 <h2> 💬 Cowork Tool </h2>
     
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 <h2> 🎨 Design Tool </h2>
     
+![AffinityDesigner](https://img.shields.io/badge/AffinityDesigner-1B72BE.svg?&style=for-the-badge&logo=AffinityDesigner&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010.svg?&style=for-the-badge&logo=Rhinoceros&logoColor=white)
  
-<br>
-<br>
-
 <h2> Contact </h2>
    
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
