@@ -109,6 +109,16 @@
 ![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010.svg?&style=for-the-badge&logo=Rhinoceros&logoColor=white)
  
+<!--
+ 
+<h2> 💭 I want to do! </h2>
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white) 
+![Steam](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Starbucks](https://img.shields.io/badge/Starbucks-006241.svg?&style=for-the-badge&logo=Starbucks&logoColor=white) 
+-->
 <h2> Contact </h2>
    
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
