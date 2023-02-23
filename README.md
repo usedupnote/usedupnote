@@ -119,7 +119,7 @@
 ![Steam](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Starbucks](https://img.shields.io/badge/Starbucks-006241.svg?&style=for-the-badge&logo=Starbucks&logoColor=white) 
 -->
-<h2> Contact </h2>
+<h2> 📫 Contact </h2>
    
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 <a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
