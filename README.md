@@ -8,9 +8,10 @@
 <br>
 <br>
 
-<h2>[Python] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Java] </h2>
+<h2>[Java] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python] </h2>
     
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    
     
 <br>
 <br>
