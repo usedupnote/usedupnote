@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<h2>[Java] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Python] </h2>
+<h2><b>[Java (23.01.17)]</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>[Python (22.11.05)]</b> </h2>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    
