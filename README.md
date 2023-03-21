@@ -43,7 +43,6 @@
 <p> <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) <b> [2020] </b> </p>
     
 <br>
-<br>
 
 
 <h3> 🎓 Studying at </h3>
