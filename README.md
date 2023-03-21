@@ -54,33 +54,33 @@
 <h3> 🚀Activities </h3>
 
 <ul>
-<li> [2023.01. ~ - Now - ] 💻 | SSAFY(Samsung SW Academy For Youth)  </li> 
-<li> [2021.04. ~ 2022.10.] ⚪ | 군복무(30기갑여단) </li> 
-<li> [2022.06. ~ 2022.06.] 💻 | 국방분야 AI SW 역량강화 프로젝트[초급] 교육 수료  </li> 
-<li> [2018.03. ~ 2021.02.] 💻 | 창업동아리(IEDA MEMORY) </li> 
-<li> [2018.03. ~ 2021.02.] ⚪ | 메이커스페이스(근로장학생) </li> 
-<li> [2020.08. ~ 2020.12.] 💻 | 공공빅데이터인턴(경남테크노파크) </li> 
-<li> [2017.06. ~ 2017.07.] ⚪ | 한일 학술문화 및 청소년 교류사업  </li> 
+<li> [2023.01. ~ - Now - ] 💻 | <b>SSAFY(Samsung SW Academy For Youth)</b>  </li> 
+<li> [2021.04. ~ 2022.10.] ⚪ | <b>군복무</b>(30기갑여단) </li> 
+<li> [2022.06. ~ 2022.06.] 💻 | <b>국방분야 AI SW 역량강화 프로젝트[초급]</b> (수료)  </li> 
+<li> [2018.03. ~ 2021.02.] 💻 | <b>창업동아리</b>(IEDA MEMORY) </li> 
+<li> [2018.03. ~ 2021.02.] ⚪ | <b>메이커스페이스</b>(근로장학생) </li> 
+<li> [2020.08. ~ 2020.12.] 💻 | <b>공공빅데이터인턴</b>(경남테크노파크) </li> 
+<li> [2017.06. ~ 2017.07.] ⚪ | <b>한일 학술문화 및 청소년 교류사업</b>  </li> 
 </ul>
     
     
 <h3> 🏆 Awards </h3>
 <ul>
-<li> [2020] ⚪ | 캠퍼스 특허 유니버시아드 (사업화부문) [우수상]  </li> 
-<li> [2019] 💻 | 부산지역 캡스톤디자인 경진대회 등 4개 (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상]  </li> 
-<li> [2019] ⚪ | 캠퍼스 특허전략 유니버시아드 (특허전략부문) [장려상]  </li> 
-<li> [2019] ⚪ | 부산지역 특허전략 경진대회(특허전략부문) [장려상] </li> 
-<li> [2018] ⚪ | 부산지역 특허전략 경진대회(특허전략부문, 선행기술조사부문) [우수상, 우수상] </li> 
+<li> [2020] ⚪ | <b>캠퍼스 특허 유니버시아드</b> (사업화부문) [우수상]  </li> 
+<li> [2019] 💻 | <b>부산지역 캡스톤디자인 경진대회 등 4개</b> (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상]  </li> 
+<li> [2019] ⚪ | <b>캠퍼스 특허전략 유니버시아드</b> (특허전략부문) [장려상]  </li> 
+<li> [2019] ⚪ | <b>부산지역 특허전략 경진대회</b>(특허전략부문) [장려상] </li> 
+<li> [2018] ⚪ | <b>부산지역 특허전략 경진대회</b>(특허전략부문, 선행기술조사부문) [우수상, 우수상] </li> 
 </ul>
 
 <h3> 💳 Certificate </h3>
     
 <ul>
-<li> [2022] 💻 | 인공지능 자격 전문가 (한국표준협회) </li> 
-<li> [2020] 💻 | DSAC Programmer Certificate (KPC 한국생산성본부) </li> 
-<li> [2019] ⚪ | 3D프린터운용기능사 - Craftsman 3D Printer Operation (한국산업인력공단) </li> 
-<li> [2018] ⚪ | IP 정보검색사 - IPS GL (한국지식재산서비스협회) </li> 
-<li> [2018] ⚪ | International TRIZ LEVEL1 (The International TRIZ Assosiation) </li> 
+<li> [2022] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
+<li> [2020] 💻 | <b>DSAC Programmer Certificate</b> (KPC 한국생산성본부) </li> 
+<li> [2019] ⚪ | <b>3D프린터운용기능사 - Craftsman 3D Printer Operation</b> (한국산업인력공단) </li> 
+<li> [2018] ⚪ | <b>IP 정보검색사</b> - IPS GL (한국지식재산서비스협회) </li> 
+<li> [2018] ⚪ | <b>International TRIZ</b> LEVEL1 (The International TRIZ Assosiation) </li> 
 
 <br>   
 
@@ -123,7 +123,7 @@
 -->
 <h2> 📫 Contact </h2>
    
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://usedupnote.notion.site/Lee-JeongMyung-80037b416cd14f4ebcf28b4fe4599aeb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 <a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/idea.memory(DEV)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/i_m_meong(LOG)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
