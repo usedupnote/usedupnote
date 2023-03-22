@@ -47,7 +47,7 @@
 
 <h3> 🎓 Studying at </h3>
 <ul>
-<li> [2017.03. ~ 2021.02.] 💻 | <b> <i>Dong-eui University</i> - Major int Game Engineering[bachelor degree] </b> (동의대학교 - 게임공학과[학사]) </li> 
+<li> [2017.03. ~ 2021.02.] 💻 | <b> <i>Dong-eui University</i> - Major int Game Engineering[bachelor's degree] </b> (동의대학교 - 게임공학과[학사]) </li> 
 <li> [2013.03. ~ 2016.02.] ⚪ | <b> Mir-yang High School </b> (밀양고등학교 - 이과) </li> 
 </ul>
     
