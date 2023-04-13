@@ -38,9 +38,9 @@
 
 <h3> 🌱 what I'm doing now </h3>
     
-<p> <b> SSAFY </b> (Samsung SW Academy For Youth) <b> [9기 - 2023] </b></p>
-<p> <b> YIPL </b> (Young Intellectual Property Leaders) <b> [2019, 2020] </b></p>
-<p> <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) <b> [2020] </b> </p>
+<p> ┖ <b> SSAFY </b> (Samsung SW Academy For Youth) <b> [9기 - 2023] </b></p>
+<p> ┖ <b> YIPL </b> (Young Intellectual Property Leaders) <b> [2019, 2020] </b></p>
+<p> ┖ <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) <b> [2020] </b> </p>
     
 <br>
 
