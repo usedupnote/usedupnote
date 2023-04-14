@@ -19,14 +19,22 @@
 <br>
     
 <h2> [GitHub stats] </h2>
-
+    
+<table>
+    <tr>
+    <td valign="top" width="100%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usedupnote&theme=transparent" align="center" style="width: 95%"/>
+    </td>
+    </tr>
+</table>      
+    
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Usedupnote&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="center" style="width: 95%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usedupnote&hide_border=true&layout=compact&theme=transparent" align="left" style="width: 95%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usedupnote&hide_border=true&layout=compact&theme=transparent" align="center" style="width: 95%" />
 
 </td></tr></table>  
 
@@ -111,8 +119,11 @@
 ![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
 ![Rhinoceros](https://img.shields.io/badge/Rhinoceros-801010.svg?&style=for-the-badge&logo=Rhinoceros&logoColor=white)
  
-<!--
- 
+<!-- 
+<h2> 🖥️ Open-Source Projects </h2> 
+-->
+    
+<!-- 
 <h2> 💭 I want to do! </h2>
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&style=for-the-badge&logo=Swift&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
@@ -121,6 +132,7 @@
 ![Steam](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Starbucks](https://img.shields.io/badge/Starbucks-006241.svg?&style=for-the-badge&logo=Starbucks&logoColor=white) 
 -->
+    
 <h2> 📫 Contact </h2>
    
 <a href="https://usedupnote.notion.site/Lee-JeongMyung-80037b416cd14f4ebcf28b4fe4599aeb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
