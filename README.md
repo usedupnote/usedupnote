@@ -8,10 +8,15 @@
 <br>
 <br>
 
-<h2><b>[Java]</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>[Python]</b> </h2>
+<h2><b>[Java]</b></h2>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)    
+<img src="http://mazandi.herokuapp.com/api?handle=leejm9704&theme=warm"/>
+
+<h2><b>[Python]</b></h2>
+    
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
+<img src="http://mazandi.herokuapp.com/api?handle=usedupnote&theme=warm"/>
     
 <p> <b>23.01.17 ~</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>22.11.05 ~</b> </p>
     
