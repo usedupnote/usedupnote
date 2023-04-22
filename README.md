@@ -48,22 +48,21 @@
 <br>
 <br>
 
+<div align = "center">  
+<h2> 🌱 what I'm doing now </h2>
+<p> <b> SSAFY </b> (Samsung SW Academy For Youth) <b> [9기 - 2023] </b></p>
+<p> <b> YIPL </b> (Young Intellectual Property Leaders) <b> [2019, 2020] </b></p>
+<p> <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) <b> [2020] </b> </p>
+</div>
 
-<h3> 🌱 what I'm doing now </h3>
-    
-<p> ┖ <b> SSAFY </b> (Samsung SW Academy For Youth) <b> [9기 - 2023] </b></p>
-<p> ┖ <b> YIPL </b> (Young Intellectual Property Leaders) <b> [2019, 2020] </b></p>
-<p> ┖ <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) <b> [2020] </b> </p>
-    
-<br>
-
+<br><br>
 
 <h3> 🎓 Studying at </h3>
 <ul>
 <li> [2017.03. ~ 2021.02.] 💻 | <b> <i>Dong-eui University</i> - Major int Game Engineering[bachelor's degree] </b> (동의대학교 - 게임공학과[학사]) </li> 
 <li> [2013.03. ~ 2016.02.] ⚪ | <b> Mir-yang High School </b> (밀양고등학교 - 이과) </li> 
 </ul>
-    
+
 <h3> 🚀Activities </h3>
 
 <ul>
