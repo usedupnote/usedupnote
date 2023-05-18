@@ -13,7 +13,6 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 <img src="http://mazandi.herokuapp.com/api?handle=leejm9704&theme=warm"/>
-
 <h2><b>[Python]</b></h2>
 <p><b>(22.11.05 ~ Now)</b></p>
     
