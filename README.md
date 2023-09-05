@@ -148,7 +148,7 @@
     
 <h2> 📫 Contact </h2>
    
-<a href="https://usedupnote.notion.site/Lee-JeongMyung-80037b416cd14f4ebcf28b4fe4599aeb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://ljmprofile.notion.site/c2c22ab7d3d74ff5a70168cc1561987b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 <a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/idea.memory(DEV)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/i_m_meong(LOG)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
