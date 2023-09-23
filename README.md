@@ -44,7 +44,12 @@
 </td></tr></table>  
 
 </div>
-    
+
+<!--
+![usedupnote github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=usedupnote)
+![usedupnote github-trophies](https://stats.dooboo.io/api/github-trophies?login=usedupnote)
+-->
+
 <br>
 <br>
 
