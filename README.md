@@ -83,7 +83,7 @@
     
 <h3> 🛠 Project </h3>
 <ul>
-<li> [2023.10. ~ - now - ] 💻 | <b> ◯◯◯◯ ◯◯◯◯ </b> [ WEB ]</li>
+<li> [2023.10. ~ - now - ] 💻 | <b> 오디 (Open the Door) </b> [ WEB ]</li>
 <li> [2023.08. ~ 2023.10.] 💻 | <b> Haruman </b> [ WEB ]</li>
 <li> [2023.07. ~ 2023.08.] 💻 | <b> Memory Capsule </b> [ WEB ]</li>
 <li> [2023.05. ~ 2023.05.] 💻 | <b>국내 여행, 여행지 추천 및 여행계획 수립 사이트 </b> [ WEB ]</li>
