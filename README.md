@@ -136,7 +136,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white)
 
 
-<h2> ➰ Cowork Tool </h2>
+<h2> ➰ DevOps </h2>
 
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
