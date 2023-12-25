@@ -4,18 +4,21 @@
 <div align = "center">
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FF9400&title_bg=%23FFC264&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+<h2> 🧳 Portfolio </h2>
+<a href="https://ljmprofile.notion.site/c2c22ab7d3d74ff5a70168cc1561987b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
     
 <br>
     
 <br>
 
-<h2><b>[Java]</b></h2>
-<p><b>(23.01.17 ~ Now)</b></p>
+<h2>🚩 Solved Problems</h2>
+<p><b>Java</b> [23.01.17 ~ Now]</p>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
 <img src="http://mazandi.herokuapp.com/api?handle=leejm9704&theme=warm"/>
-<h2><b>[Python]</b></h2>
-<p><b>(22.11.05 ~ Now)</b></p>
+
+<p><b>Python</b> [22.11.05 ~ Now]</p>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
 <img src="http://mazandi.herokuapp.com/api?handle=usedupnote&theme=warm"/>
@@ -23,7 +26,7 @@
 <br>
 <br>
     
-<h2> [GitHub stats] </h2>
+<h2> 📈 GitHub stats </h2>
     
 <table>
     <tr>
@@ -55,7 +58,6 @@
 
 <div align = "center">  
 <h2> 🌱 what I'm doing now </h2>
-<p> <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp"> <b> SSAFY </b> (Samsung SW Academy For Youth) </a> <b> [9기 - 2023 ~ ] </b></p>
 <p> <a href="https://www.kosffl.or.kr/"> <b> 한국지도자육성장학생 </b> (The Korea Scholarship Foundation for the Future Leaders) </a> <b> [50기 - 2020 ~ ] </b> </p>
 <p> <a href="http://www.yipl.or.kr/home/"> <b> YIPL </b> (Young Intellectual Property Leaders) </a> <b> [2019 ~ ] </b></p>
 </div>
@@ -71,7 +73,8 @@
 <h3> 🚀Activities </h3>
 
 <ul>
-<li> [2023.01. ~ - Now - ] 💻 | <b>SSAFY(Samsung SW Academy For Youth)</b>  </li> 
+<!-- <li> [2023.01. ~ - Now - ] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b>  </li> -->
+<li> [2023.01. ~ 2023.12.] 💻 | <a href="https://www.ssafy.com"><b>SSAFY(Samsung SW Academy For Youth) 9기</b></a></li> 
 <li> [2021.04. ~ 2022.10.] ⚪ | <b>군복무</b>(30기갑여단) </li> 
 <li> [2022.06. ~ 2022.06.] 💻 | <b>국방분야 AI SW 역량강화 프로젝트[초급]</b> (수료)  </li> 
 <li> [2018.03. ~ 2021.02.] 💻 | <b>창업동아리 대표</b>(IEDA MEMORY) </li> 
@@ -128,6 +131,9 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/Css-E34F26.svg?&style=for-the-badge&logo=Css3&logoColor=white)
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![React-Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white)
     
 <h2> 💬 Cowork Tool </h2>
     
@@ -142,6 +148,7 @@
 
 <h2> 🎨 Design Tool </h2>
     
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
 ![AffinityDesigner](https://img.shields.io/badge/AffinityDesigner-1B72BE.svg?&style=for-the-badge&logo=AffinityDesigner&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrate-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
 ![3DSMax](https://img.shields.io/badge/3DSMax-0696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white)
@@ -163,7 +170,6 @@
     
 <h2> 📫 Contact </h2>
    
-<a href="https://ljmprofile.notion.site/c2c22ab7d3d74ff5a70168cc1561987b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
 <a href="https://www.github.com/usedupnote" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/idea.memory/" target="_blank"><img src="https://img.shields.io/badge/idea.memory(DEV)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/i_m_meong/" target="_blank"><img src="https://img.shields.io/badge/i_m_meong(LOG)-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/></a>
