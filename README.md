@@ -74,7 +74,7 @@
 
 <ul>
 <!-- <li> [2023.01. ~ - Now - ] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b>  </li> -->
-<li> [2023.01. ~ 2023.12.] 💻 | <a href="https://www.ssafy.com"><b>SSAFY(Samsung SW Academy For Youth) 9기</b></a></li> 
+<li> [2023.01. ~ 2023.12.] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b> [<a href="https://www.ssafy.com">바로가기</a>]</li> 
 <li> [2021.04. ~ 2022.10.] ⚪ | <b>군복무</b>(30기갑여단) </li> 
 <li> [2022.06. ~ 2022.06.] 💻 | <b>국방분야 AI SW 역량강화 프로젝트[초급]</b> (수료)  </li> 
 <li> [2018.03. ~ 2021.02.] 💻 | <b>창업동아리 대표</b>(IEDA MEMORY) </li> 
@@ -86,9 +86,9 @@
     
 <h3> 🛠 Project </h3>
 <ul>
-<li> [2023.10. ~ 2023.11.] 💻 | <b> 오디 (Open the Door) </b> [ APP ]</li>
-<li> [2023.08. ~ 2023.10.] 💻 | <b> Haruman </b> [ WEB-APP ]</li>
-<li> [2023.07. ~ 2023.08.] 💻 | <b> Memory Capsule </b> [ WEB ]</li>
+<li> [2023.10. ~ 2023.11.] 💻 | <b> 오디 (Open the Door) </b> [ APP ] [<a href="https://github.com/rainbowgon/opentheDoor">바로가기</a>]</li>
+<li> [2023.08. ~ 2023.10.] 💻 | <b> Haruman </b> [ WEB-APP ] [<a href="https://github.com/rainbowgon/haruman">바로가기</a>]</li>
+<li> [2023.07. ~ 2023.08.] 💻 | <b> Memory Capsule </b> [ WEB ] [<a href="https://github.com/TeamMemoryCapsule/MemoryCapsule">바로가기</a>]</li>
 <li> [2023.05. ~ 2023.05.] 💻 | <b>국내 여행, 여행지 추천 및 여행계획 수립 사이트 </b> [ WEB ]</li>
 <li> [2019.07. ~ 2019.12.] 🎮 | <b>초-중등 수준 코딩교육용 게임 </b> [ GAME ]</li>
 </ul>
@@ -96,7 +96,7 @@
     
 <h3> 🏆 Awards </h3>
 <ul>
-<li> [2023] 💻 | <b>SSAFY 프로젝트</b> (자율프로젝트) [우수상]  </li> 
+<li> [2023] 💻 | <b>SSAFY 자율프로젝트 우수상</b> (오디 (Open the Door)) [우수상]  </li> 
 <li> [2020] 📑 | <b>캠퍼스 특허 유니버시아드</b> (사업화부문) [우수상]  </li> 
 <li> [2019] 💻 | <b>부산지역 캡스톤디자인 경진대회 등 4개</b> (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상]  </li> 
 <li> [2019] 📑 | <b>캠퍼스 특허전략 유니버시아드</b> (특허전략부문) [장려상]  </li> 
@@ -107,6 +107,7 @@
 <h3> 💳 Certificate </h3>
     
 <ul>
+<li> [2023] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
 <li> [2022] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
 <li> [2020] 💻 | <b>DSAC Programmer Certificate</b> (KPC 한국생산성본부) </li> 
 <li> [2019] ⚪ | <b>3D프린터운용기능사 - Craftsman 3D Printer Operation</b> (한국산업인력공단) </li> 
