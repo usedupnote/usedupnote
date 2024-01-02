@@ -88,6 +88,7 @@
 <ul>
 <li> [2023.10. ~ 2023.11.] 💻 | <b> 오디 (Open the Door) </b> [ APP ] [<a href="https://github.com/rainbowgon/opentheDoor">바로가기</a>]</li>
 <li> [2023.08. ~ 2023.10.] 💻 | <b> Haruman </b> [ WEB-APP ] [<a href="https://github.com/rainbowgon/haruman">바로가기</a>]</li>
+<li> [2023.08. ~ 2023.08.] 💻 | <b> 백쥐 깜쥐 </b> [ WEB ] [<a href="https://github.com/2023-elice-hackaton-team8/front-end">바로가기</a>]</li>
 <li> [2023.07. ~ 2023.08.] 💻 | <b> Memory Capsule </b> [ WEB ] [<a href="https://github.com/TeamMemoryCapsule/MemoryCapsule">바로가기</a>]</li>
 <li> [2023.05. ~ 2023.05.] 💻 | <b>국내 여행, 여행지 추천 및 여행계획 수립 사이트 </b> [ WEB ]</li>
 <li> [2019.07. ~ 2019.12.] 🎮 | <b>초-중등 수준 코딩교육용 게임 </b> [ GAME ]</li>
@@ -107,7 +108,6 @@
 <h3> 💳 Certificate </h3>
     
 <ul>
-<li> [2023] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
 <li> [2022] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
 <li> [2020] 💻 | <b>DSAC Programmer Certificate</b> (KPC 한국생산성본부) </li> 
 <li> [2019] ⚪ | <b>3D프린터운용기능사 - Craftsman 3D Printer Operation</b> (한국산업인력공단) </li> 
