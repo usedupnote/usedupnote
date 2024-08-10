@@ -16,12 +16,12 @@
 <p><b>Java</b> [23.01.17 ~ Now]</p>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leejm9704)](https://solved.ac/leejm9704/)
-<img src="http://mazandi.herokuapp.com/api?handle=leejm9704&theme=warm"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=leejm9704&theme=warm"/>-->
 
 <p><b>Python</b> [22.11.05 ~ Now]</p>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=usedupnote)](https://solved.ac/usedupnote/)
-<img src="http://mazandi.herokuapp.com/api?handle=usedupnote&theme=warm"/>
+<!--<img src="http://mazandi.herokuapp.com/api?handle=usedupnote&theme=warm"/>-->
        
 <br>
 <br>
