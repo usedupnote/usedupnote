@@ -74,29 +74,33 @@
 
 <ul>
 <!-- <li> [2023.01. ~ - Now - ] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b>  </li> -->
-<li> [2023.01. ~ 2023.12.] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b> [<a href="https://www.ssafy.com">바로가기</a>]</li> 
-<li> [2021.04. ~ 2022.10.] ⚪ | <b>군복무</b>(30기갑여단) </li> 
-<li> [2022.06. ~ 2022.06.] 💻 | <b>국방분야 AI SW 역량강화 프로젝트[초급]</b> (수료)  </li> 
-<li> [2018.03. ~ 2021.02.] 💻 | <b>창업동아리 대표</b>(IEDA MEMORY) </li> 
-<li> [2018.03. ~ 2021.02.] ⚪ | <b>메이커스페이스</b>(근로장학생) </li> 
-<li> [2020.08. ~ 2020.12.] 💻 | <b>공공빅데이터인턴</b>(경남테크노파크) </li> 
-<li> [2017.06. ~ 2017.07.] ⚪ | <b>한일 학술문화 및 청소년 교류사업</b>(국립국제교육원 - 일한문화교류기금)  </li> 
+<li> [25.06. ~ -Now- ] 💻 | <b>특허법인 로드</b> [<a href="https://www.roadpat.com">바로가기</a>]</li> 
+<li> [25.04. ~ 25.05.] 💻 | <b>2025 오픈소스 컨트리뷰션 아카데미</b> [<a href="https://www.contribution.ac/2025-ossca-apply-01">바로가기</a>]</li> 
+<li> [23.01. ~ 23.12.] 💻 | <b>SSAFY(Samsung SW Academy For Youth) 9기</b> [<a href="https://www.ssafy.com">바로가기</a>]</li> 
+<li> [21.04. ~ 22.10.] ⚪ | <b>군복무</b>(30기갑여단) </li> 
+<li> [22.06. ~ 22.06.] 💻 | <b>국방분야 AI SW 역량강화 프로젝트[초급]</b> (수료)  </li> 
+<li> [18.03. ~ 21.02.] 💻 | <b>창업동아리 대표</b>(IEDA MEMORY) </li> 
+<li> [18.03. ~ 21.02.] ⚪ | <b>메이커스페이스</b>(근로장학생) </li> 
+<li> [20.08. ~ 20.12.] 💻 | <b>공공빅데이터인턴</b>(경남테크노파크) </li> 
+<li> [17.06. ~ 17.07.] ⚪ | <b>한일 학술문화 및 청소년 교류사업</b>(국립국제교육원 - 일한문화교류기금)  </li> 
 </ul>
     
     
 <h3> 🛠 Project </h3>
 <ul>
-<li> [2023.10. ~ 2023.11.] 💻 | <b> 오디 (Open the Door) </b> [ APP ] [<a href="https://github.com/rainbowgon/opentheDoor">바로가기</a>]</li>
-<li> [2023.08. ~ 2023.10.] 💻 | <b> Haruman </b> [ WEB-APP ] [<a href="https://github.com/rainbowgon/haruman">바로가기</a>]</li>
-<li> [2023.08. ~ 2023.08.] 💻 | <b> 백쥐 깜쥐 </b> [ WEB ] [<a href="https://github.com/2023-elice-hackaton-team8/front-end">바로가기</a>]</li>
-<li> [2023.07. ~ 2023.08.] 💻 | <b> Memory Capsule </b> [ WEB ] [<a href="https://github.com/TeamMemoryCapsule/MemoryCapsule">바로가기</a>]</li>
-<li> [2023.05. ~ 2023.05.] 💻 | <b>국내 여행, 여행지 추천 및 여행계획 수립 사이트 </b> [ WEB ]</li>
-<li> [2019.07. ~ 2019.12.] 🎮 | <b>초-중등 수준 코딩교육용 게임 </b> [ GAME ]</li>
+<li> [23.10. ~ 23.11.] 💻 | <b> 오디 (Open the Door) </b> [ APP ] [<a href="https://github.com/rainbowgon/opentheDoor">바로가기</a>]</li>
+<li> [23.08. ~ 23.10.] 💻 | <b> Haruman </b> [ WEB-APP ] [<a href="https://github.com/rainbowgon/haruman">바로가기</a>]</li>
+<li> [23.08. ~ 23.08.] 💻 | <b> 백쥐 깜쥐 </b> [ WEB ] [<a href="https://github.com/2023-elice-hackaton-team8/front-end">바로가기</a>]</li>
+<li> [23.07. ~ 23.08.] 💻 | <b> Memory Capsule </b> [ WEB ] [<a href="https://github.com/TeamMemoryCapsule/MemoryCapsule">바로가기</a>]</li>
+<li> [23.05. ~ 23.05.] 💻 | <b>국내 여행, 여행지 추천 및 여행계획 수립 사이트 </b> [ WEB ]</li>
+<li> [19.07. ~ 19.12.] 🎮 | <b>초-중등 수준 코딩교육용 게임 </b> [ GAME ]</li>
 </ul>
 
     
 <h3> 🏆 Awards </h3>
 <ul>
+<li> [2026] 📑 | <b>제 13회 지식재산산업인 대상</b> [표창]  </li> 
+<li> [2023] 💻 | <b>SSAFY 자율프로젝트 우수상</b> (오디 (Open the Door)) [우수상]  </li> 
 <li> [2023] 💻 | <b>SSAFY 자율프로젝트 우수상</b> (오디 (Open the Door)) [우수상]  </li> 
 <li> [2020] 📑 | <b>캠퍼스 특허 유니버시아드</b> (사업화부문) [우수상]  </li> 
 <li> [2019] 💻 | <b>부산지역 캡스톤디자인 경진대회 등 4개</b> (초-중등 수준 코딩교육용 게임) [우수상 ~ 최우수상]  </li> 
@@ -108,6 +112,8 @@
 <h3> 💳 Certificate </h3>
     
 <ul>
+<li> [2026] 💻 | <b>정보처리기사</b> (과학기술정보통신부) </li>
+<li> [2025] 💻 | <b>SQLD (SQL Developer)</b> (한국데이터산업진흥원) </li> 
 <li> [2022] 💻 | <b>인공지능 자격 전문가</b> (한국표준협회) </li> 
 <li> [2020] 💻 | <b>DSAC Programmer Certificate</b> (KPC 한국생산성본부) </li> 
 <li> [2019] ⚪ | <b>3D프린터운용기능사 - Craftsman 3D Printer Operation</b> (한국산업인력공단) </li> 
