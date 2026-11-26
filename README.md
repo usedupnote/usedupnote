@@ -3,7 +3,7 @@
 
 <div align = "center">
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FF9400&title_bg=%23FFC264&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fusedupnote&count_bg=%23FF9400&title_bg=%23FFC264&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>-->
 
 <h2> 🧳 Portfolio </h2>
 <a href="https://ljmprofile.notion.site/c2c22ab7d3d74ff5a70168cc1561987b?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
